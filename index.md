@@ -1,4 +1,4 @@
-## 中国经济专题讨论课 2020秋季学期 课程小论文
+## 课程小论文
 
 点击[这里](https://shimo.im/sheets/PgqPDyJGQtXYHg6D/MODOC)记录成绩
 
