@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## 中国经济专题讨论课 2020秋季学期 课程小论文
 
-You can use the [editor on GitHub](https://github.com/FanghaoChen/nsdzjz2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+点击[这里](https://shimo.im/sheets/PgqPDyJGQtXYHg6D/MODOC)记录成绩
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[1700011440	齐霖]()
 
-### Markdown
+[1700012161	刘梓轩]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[1700015114	周润人]()
 
-```markdown
-Syntax highlighted code block
+[1700015437	尉银杰]()
 
-# Header 1
-## Header 2
-### Header 3
+[1700015451	袁振宇]()
 
-- Bulleted
-- List
+[1800011066	王锐]()
 
-1. Numbered
-2. List
+[1800012424	张清发]()
 
-**Bold** and _Italic_ and `Code` text
+[1800013716	张若妍]()
 
-[Link](url) and ![Image](src)
-```
+[1800015461	徐文哲]()
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[1800015470	肖海阳]()
 
-### Jekyll Themes
+[1800015540	李龙剑]()
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FanghaoChen/nsdzjz2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[1900011757	迟誉]()
 
-### Support or Contact
+[1900011829	李袁颋]()
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[吴蝶（旁听）]()
+  
